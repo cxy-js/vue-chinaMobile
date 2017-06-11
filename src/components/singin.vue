@@ -35,6 +35,7 @@ import bus from '.././bus.js'
           return
         }else{
           this.telisok=false
+
         };
         if(this.pw===''){
           this.pwisok=true
@@ -51,11 +52,12 @@ import bus from '.././bus.js'
         this.$router.push({path:"/me"})
         //跳到充值界面,获取到的充值数据将通过vuex获取、bus
         let that=this
-         document.body.onclick=function(){
+        
+         document.body.addEventListener('click',function(){
             bus.$emit('singintel',that.tel);
             //console.log(that.tel)
-         }
-        //  this.$router.push({name:'payway'})
+         })
+       
       }
     }
   }
