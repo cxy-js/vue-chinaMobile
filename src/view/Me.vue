@@ -197,8 +197,8 @@ import flow from '../view/homePlay/flow'
         mounted(){
             this.$nextTick(()=>{
                 this.getbill();
-                bus.$on('singintel',(tel)=>{
-                    this.tel=tel
+                bus.$on('singintel',(telf)=>{
+                    this.tel=telf
                 })
             })
             },
