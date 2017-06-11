@@ -35,7 +35,6 @@ import bus from '.././bus.js'
           return
         }else{
           this.telisok=false
-
         };
         if(this.pw===''){
           this.pwisok=true
