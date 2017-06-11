@@ -21,7 +21,9 @@ npm run dev
 预览地址 [demo](http://www.00h5.com)
 ## 技术栈
 + vue2
++ vue-cli
 + vue-router
++ webpack
 + axios
 + swiper(mint-ui)
 
