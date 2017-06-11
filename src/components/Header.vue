@@ -90,9 +90,10 @@ import bus from '.././bus.js'
           console.log(me)
         });
         bus.$on('singintel',(tel)=>{
+          this.tel=tel
           this.istel=true
           this.issingin=false
-          this.tel=tel
+          
         })
     },
     methods:{
@@ -116,14 +117,13 @@ import bus from '.././bus.js'
         
         this.$router.push({path:'/singin'})
         this.istrans=false
-        this.issingUp=false
+        this.issingin=false
         console.log(this.issingUp)
          
       },
       logoff(){
-       this.tel=''
-       this.istel=false
-       alert(this.tel)
+        this.issingin=false
+       
       this.$router.push({path:"/singin"})
         
         
