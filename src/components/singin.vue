@@ -14,7 +14,6 @@
       <span class="singin-btn">登录</span>
     </div>
     </form>
-
   </div>
 </template>
 <script type="text/javascript">
