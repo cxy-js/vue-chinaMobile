@@ -1,0 +1,36 @@
+{
+  "comboorder0":{
+  "comboorder1":[
+    {
+      "img":"../static/img/shoping/flay-0.png",
+      "imgcontent":"任我用 (老用户版)",
+      "title":"任我用 (老用户版)",
+      "price":"￥238/每月"
+    },
+    {
+      "img":"../static/img/shoping/flay-1.png",
+      "imgcontent":"飞享套餐38元",
+      "title":"4G飞享套餐38元",
+      "price":"￥38/每月"
+    },
+    {
+      "img":"../static/img/shoping/flay-1.png",
+      "imgcontent":"飞享套餐28元",
+      "title":"4G飞享套餐28元",
+      "price":"￥28/每月"
+    },
+    {
+      "img":"../static/img/shoping/flay-1.png",
+      "imgcontent":"4G飞享套餐",
+      "title":"4G飞享套餐",
+      "price":"￥18-588/每月"
+    },
+    {
+      "img":"../static/img/shoping/flay-1.png",
+      "imgcontent":"4G飞享套餐18元",
+      "title":"4G飞享套餐18元",
+      "price":"￥18/每月"
+    }
+  ]
+}
+}

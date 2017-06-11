@@ -1,0 +1,36 @@
+{
+    "flowCombo":{
+       
+        "combos":[
+            {
+                 "title":"夜间专用流量包5元",
+                 "local4G":"国内2G/3G/4G融合流量",
+                 "surplusflow":"95",
+                 "allflow":"100"
+                
+            },
+            {
+                 "title":"500M流量直冲包",
+                 "local4G":"国内2G/3G/4G融合流量",
+                 "surplusflow":"197.1",
+                 "allflow":"500"
+
+            },
+             {
+                 "title":"4G飞享套餐18元B",
+                 "local4G":"国内2G/3G/4G融合流量",
+                 "surplusflow":"0",
+                 "allflow":"100"
+
+            },
+            {
+                 "title":"成员流量红包(线下)",
+                 "local4G":"国内2G/3G/4G融合流量",
+                 "surplusflow":"0",
+                 "allflow":"1"
+
+            }
+        ]
+       
+    }
+}

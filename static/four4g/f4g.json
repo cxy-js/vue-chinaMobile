@@ -1,0 +1,229 @@
+
+{
+  "con":{
+  "playConent":[
+        {
+      "name":"玩转4G",
+      
+    
+          "title":"4G全攻略",
+          "content":"优惠攻略 不得不学",
+          "img":"../static/img/4g-1.png"
+        },
+        {
+          "title":"4G飞享套餐",
+          "content":"精心搭配 方便选择",
+          "img":"../static/img/4g-2.png"
+        },
+        {
+          "title":"4G流量月包",
+          "content":"优惠享流量",
+          "img":"../static/img/4g-3.png"
+        },
+        {
+          "title":"流量安心包",
+          "content":"有它才安心",
+          "img":"../static/img/4g-4.png"
+        },
+   
+   
+      {
+      "name":"热门促销",
+      
+     
+          "title":"流量同付",
+          "content":"软件随便玩",
+          "img":"../static/img/liuliang.png"
+        },
+        {
+          "title":"VoLTE",
+          "content":"4G高品质服务",
+          "img":"../static/img/4g-1.png"
+        },
+        {
+          "title":"咪咕精选",
+          "content":"无娱乐不生活",
+          "img":"../static/img/migu.png"
+        },
+        {
+          "title":"国际/港澳台",
+          "content":"畅游各地不断往",
+          "img":"../static/img/inter.png"
+        },
+      
+    
+    {
+    "name":"热卖机型",
+   
+    
+    
+        "title":"iphone7",
+        "content":"红色经典 时尚生活",
+        "price":"￥5699",
+        "img":"../static/img/iphone7.jpg"
+      },
+      {
+         "more":"更多 >",
+        "title":"华为",
+        "content":"4G高品质服务",
+        "price":"￥3699",
+        "img":"../static/img/huawei.jpg"
+      },
+      {
+        "title":"魅族",
+        "content":"无娱乐不生活",
+        "price":"￥1699",
+        "img":"../static/img/meizu.jpg"
+      },
+      {
+        "title":"小米",
+        "content":"畅游各地不断往",
+        "price":"￥2699",
+        "img":"../static/img/xiaomi6.jpg"
+      }
+   
+  
+],
+"shopCombo":[
+  {
+    "name":"套餐商品",
+    "more":"更多 >",
+    "combo":[
+      {
+        "img":"../static/img/shoping/flay-0.png",
+        "title":"4G飞享套餐",
+        "content":"精心搭配 方便选择",
+        "price":"18元起/月"
+      },
+      {
+        "img":"../static/img/shoping/flay-1.png",
+        "title":"4G飞享套餐2",
+        "content":"精心搭配 方便选择",
+        "price":"28元起/月"
+      },
+      {
+        "img":"../static/img/shoping/flay-2.png",
+        "title":"4G飞享套餐3",
+        "content":"精心搭配 方便选择",
+        "price":"38元起/月"
+      }
+    ]
+  },
+  {
+    "name":"推荐业务",
+    "more":"更多 >",
+    "combo":[
+      {
+        "img":"../static/img/shoping/4g.png",
+        "title":"4G流量月包",
+        "price":"10元起/月"
+      },
+      {
+        "img":"../static/img/shoping/4g-1.png",
+        "title":"假日流量月包",
+
+        "price":"10元起/月"
+      },
+      {
+        "img":"../static/img/shoping/4g.png",
+        "title":"4G飞享套餐3",
+
+        "price":"10元起/月"
+      }
+    ]
+  }
+
+],
+"server":[
+  {
+    "name":"",
+    "ad":"../static/img/ad2.jpg",
+    "wlan":[
+      {
+        "img":"../.././static/img/server/img/wlan-1.png",
+        "title":"全球通俱乐部"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-2.png",
+        "title":"动感地带俱乐部"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-3.png",
+        "title":"认证激活"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-4.png",
+        "title":"实名制登记"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-5.png",
+        "title":"星级服务"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-6.png",
+        "title":"WLAN热点"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-7.png",
+        "title":"帮助中心"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-8.png",
+        "title":"常用号码"
+      }
+    ]
+  },
+  {
+    "name":"",
+    "ad":"../static/img/ad3.jpg",
+    "wlan":[
+      {
+        "img":"../.././static/img/server/img/wlan-9.png",
+        "title":"号码归属地"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-10.png",
+        "title":"常用短信"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-11.png",
+        "title":"服务渠道指南"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-12.png",
+        "title":"授权网点查验"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-13.png",
+        "title":"意见反馈"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-14.png",
+        "title":"国际/港澳台"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-15.png",
+        "title":"终端售后点"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-16.png",
+        "title":"垃圾信息举报"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-17.png",
+        "title":"通讯录管理"
+      },
+      {
+        "img":"../.././static/img/server/img/wlan-18.png",
+        "title":"流量统付"
+      },
+      {
+        "img":"",
+        "title":"..."
+      }
+    ]
+  }
+]
+  }
+
+}
