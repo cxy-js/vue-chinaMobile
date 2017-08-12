@@ -31,23 +31,3 @@ npm run dev
 + 各个套餐页面不同价格显示
 ### 修改不同导航 Title的显示
 + 首页、商城、服务、积分、我的--》点击不同导航显示不同title
-### 项目预览图
-<div align="left">
-<img src="http://www.00h5.com/vue-chinamobile-img/home.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/server.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/shop.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/jf.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay22.png" width="280" height="600">
-
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay333.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay444.png" width="280" height="600">
-
-<img src="http://www.00h5.com/vue-chinamobile-img/pay555.png" width="280" height="600">
-</div>
-
