@@ -1,5 +1,5 @@
 # vue-chinaMobile 基于vue2 仿中国移动APP
-
+- 最新改进的在 1.0.2那版
 >
 
 ## Build Setup
